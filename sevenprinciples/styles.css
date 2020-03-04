@@ -1,0 +1,26 @@
+body {
+	padding: 50px;
+	text-align: justify;
+
+}
+
+#title {
+
+}
+
+#subt {
+	margin-right: 70px;
+}
+
+h2 {
+	border-bottom: 1px solid black;
+}
+
+
+
+.text {
+	margin-left: 40px;
+	margin-right: 70px;
+
+}
+
